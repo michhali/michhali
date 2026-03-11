@@ -5,11 +5,17 @@ Software Engineering Student at the University of Victoria.
 I build software focused on automation systems, backend engineering, and data pipelines.
 
 ## Tech Stack
+Languages  
+Python • Java • SQL • JavaScript
 
-Python  
-Java  
-React  
-SQL  
+Frontend  
+React
+
+Tools  
+Git • REST APIs • FFmpeg
+
+Engineering Practices  
+Unit Testing • Automation Pipelines • Debugging • System Design
 
 Tools  
 Git • REST APIs • FFmpeg
